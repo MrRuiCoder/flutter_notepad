@@ -1,6 +1,14 @@
-# todo_list
+# flutter_notepad
 
-A new Flutter application that can help you to note something.
+一款有提醒服务的跨平台记事本App
+
+## 1.sqflite插件
+
+数据库处理
+
+## 2.fluttertoast插件
+
+toast提示处理
 
 ## Getting Started
 
